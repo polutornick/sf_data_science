@@ -13,7 +13,6 @@ def shrinking_predict(number: int = 1) -> int:
     Returns:
         int: Число попыток
     """
-    # Ваш код начинается здесь
 
     count = 0   # счетчик попыток
     prdict_number_min = 1  # нижняя граница поиска числа
@@ -33,7 +32,6 @@ def shrinking_predict(number: int = 1) -> int:
         else:
             break
 
-    # Ваш код заканчивается здесь
 
     return count
 
