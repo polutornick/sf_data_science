@@ -1,12 +1,12 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание проекта](https://github.com/polutornick/sf_data_science/tree/main/project_0/README.md#Описание-проекта)\n\r
-[2. Какой кейс решаем?](https://github.com/polutornick/sf_data_science/tree/main/project_0/README.md#Какой-кейс-решаем?)\n\r
-[3. Краткая информация о данных(https://github.com/polutornick/sf_data_science/tree/main/project_0/README.md#Краткая-информация-о-данных)\n\r
-[4. Этапы работы над проектом](https://github.com/polutornick/sf_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)\n\r
-[5. Результат](https://github.com/polutornick/sf_data_science/tree/main/project_0/README.md#Результат)\n\r
-[6. Выводы](https://github.com/polutornick/sf_data_science/tree/main/project_0/README.md#Выводы)\n\r
+[1. Описание проекта](https://github.com/polutornick/sf_data_science/tree/main/project_0/README.md#Описание-проекта)
+[2. Какой кейс решаем?](https://github.com/polutornick/sf_data_science/tree/main/project_0/README.md#Какой-кейс-решаем?)
+[3. Краткая информация о данных](https://github.com/polutornick/sf_data_science/tree/main/project_0/README.md#Краткая-информация-о-данных)
+[4. Этапы работы над проектом](https://github.com/polutornick/sf_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)
+[5. Результат](https://github.com/polutornick/sf_data_science/tree/main/project_0/README.md#Результат)
+[6. Выводы](https://github.com/polutornick/sf_data_science/tree/main/project_0/README.md#Выводы)
 
 ### Описание проекта
 Отгадать загаданное компьютером число за минимальное число попыток.
