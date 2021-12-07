@@ -2,16 +2,11 @@
 
 ## Оглавление
 [1. Описание проекта](https://github.com/polutornick/sf_data_science/tree/main/project_0/README.md#Описание-проекта)
-
 [2. Какой кейс решаем?](https://github.com/polutornick/sf_data_science/tree/main/project_0/README.md#Какой-кейс-решаем?)
-
-[3. Краткая информация о данных](https://github.com/polutornick/sf_data_science/tree/main/project_0/README.md#Краткая-информация-о-данных)
-
-[4. Результаты работы над проектом](https://github.com/polutornick/sf_data_science/tree/main/project_0/README.md#)
-
-[4. Результат](https://github.com/polutornick/sf_data_science/tree/main/project_0/README.md#)
-
-[5 Выводы](https://github.com/polutornick/sf_data_science/tree/main/project_0/README.md#)	
+[3. Краткая информация о данных(https://github.com/polutornick/sf_data_science/tree/main/project_0/README.md#Краткая-информация-о-данных)
+[4. Этапы работы над проектом](https://github.com/polutornick/sf_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)
+[5. Результат](https://github.com/polutornick/sf_data_science/tree/main/project_0/README.md#Результат)
+[6. Выводы](https://github.com/polutornick/sf_data_science/tree/main/project_0/README.md#Выводы)	
 
 ### Описание проекта
 Отгадать загаданное компьютером число за минимальное число попыток.
@@ -30,3 +25,15 @@
 Учимся писать хороший код на Python
  
 ### Краткая информация о данных
+
+### Этапы работы над проектом
+1) Написана программа подбирающая случайное число.
+2) Написана программа проверки эффективности алгоритма на основании заданного числа проверок.
+3) В алгоритм подбора чисел добавлена функция определения большего из загаданного и подобранного чисел.
+4) В алгоритм подбора чисел добавлена функция сужения диапазона случайных чисел на основании предыдущих попыток.
+
+### Результат
+На основании тестов из 1000 повторений программа угадывает загаданное число в среднем за 5 попыток.
+
+### Выводы
+Необходим плагин для автоматического оглавления README файлов.
